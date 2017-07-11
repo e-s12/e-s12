@@ -1,0 +1,27 @@
+html {
+  background-color: gray;
+}
+h1 {
+  color: red;
+  text-align: center;
+  border: 3px dashed red;
+  border-top: 10px;
+  border-bottom: 10px;
+  border-right: 1px;
+  border-left: stretch;
+}
+h2 {
+  color: black;
+  text-align: center;
+  border-spacing: 10px;
+}
+p{
+  color: white;
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+/mainwrapper{
+  
+}
